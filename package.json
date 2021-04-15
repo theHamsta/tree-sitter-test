@@ -8,6 +8,9 @@
   "keywords": [],
   "author": "Benjamin Gray",
   "license": "MIT",
+  "dependencies": {
+    "nan": "^2.14"
+  },
   "devDependencies": {
     "tree-sitter-cli": "^0.19.4"
   },
